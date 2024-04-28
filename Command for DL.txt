@@ -1,0 +1,6 @@
+1. python -m venv ..path\venv 
+2. ctrl + shift+p => python interpritor 
+3. venv\Scripts\active
+
+
+pip install scikit-learn
